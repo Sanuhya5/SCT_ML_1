@@ -188,7 +188,7 @@ This notebook was developed as **Task 1** of the **SkillCraft Technology Machine
 
 ## 🤝 Connect
 
-If you found this helpful, feel free to ⭐ the repo and connect on [LinkedIn](www.linkedin.com/in/kasani-sanuhya).
+If you found this helpful, feel free to ⭐ the repo and connect on (www.linkedin.com/in/kasani-sanuhya).
 
 ---
 
