@@ -184,15 +184,11 @@ This notebook was developed as **Task 1** of the **SkillCraft Technology Machine
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## 🤝 Connect
 
-If you found this helpful, feel free to ⭐ the repo and connect on [LinkedIn](https://linkedin.com/in/your-profile).
+If you found this helpful, feel free to ⭐ the repo and connect on [LinkedIn](www.linkedin.com/in/kasani-sanuhya).
 
 ---
 
